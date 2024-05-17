@@ -74,7 +74,7 @@ Welcome to Tobby Do, a new Flutter project designed to help you manage your task
 
 ## Screenshots!
 
-[WhatsApp Image 2024-05-18 at 01 48 21_9a3b221d](https://github.com/eynsmre/TobbyDo/assets/99328052/84389e81-9503-40c5-97e1-71ed89ca061e)
+![WhatsApp Image 2024-05-18 at 01 48 21_9a3b221d](https://github.com/eynsmre/TobbyDo/assets/99328052/84389e81-9503-40c5-97e1-71ed89ca061e)
 
 ![WhatsApp Image 2024-05-18 at 01 48 21_aad5e14f](https://github.com/eynsmre/TobbyDo/assets/99328052/6f4b3797-bdb9-4bb7-9915-108017768632)
 
