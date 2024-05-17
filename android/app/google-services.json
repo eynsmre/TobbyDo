@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "769710441251",
+    "project_id": "tobbydo-ad82d",
+    "storage_bucket": "tobbydo-ad82d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769710441251:android:b9b9b062b932acec954296",
+        "android_client_info": {
+          "package_name": "com.example.tobby_do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769710441251-a8vv4l0gpm94ulf2n8eslbl2uvfl055m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANqC2HIg_-b_rRlyHq1EuHnk9gtJerXT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769710441251-a8vv4l0gpm94ulf2n8eslbl2uvfl055m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
